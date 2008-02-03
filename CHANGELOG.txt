@@ -1,0 +1,19 @@
+
+Gammu-PHP v0.0.6, 2008-02-23
+-------------------------
+- Filemanager UI improvements:
+  * Display listing in a table
+  * Use tag <PRE> for --help output
+  * Display download button when needed
+- Changelog added
+
+Gammu-PHP v0.0.5, 2008-01-15
+----------------------------
+Features:
+- Multiple file download
+
+Gammu-PHP v0.0.4, 2007-09-24
+----------------------------
+Features:
+- File manager
+- "--help" option parser
